@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" android:padding="10dp">
+    <solid android:color="#FF3F89E7"/>
+    <!--这里是设定按键的颜色和圆角-->
+    <corners android:radius="10dp"/>
+</shape>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "235380983820",
+    "firebase_url": "https://findcheers.firebaseio.com",
+    "project_id": "findcheers",
+    "storage_bucket": "findcheers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235380983820:android:ec2222d7284d354c",
+        "android_client_info": {
+          "package_name": "moe_nya.findcheers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235380983820-qsh51rgdf13s1788lsd9m6epg8l7a72o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "moe_nya.findcheers",
+            "certificate_hash": "aaf1f40b71815705e28667aeddc80fd706907532"
+          }
+        },
+        {
+          "client_id": "235380983820-qr60h1sjccmruta1m9ftaguj4h1rk4t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8548Wk6gp0fooubeKMShOj2xBGs0W7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235380983820-qr60h1sjccmruta1m9ftaguj4h1rk4t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
